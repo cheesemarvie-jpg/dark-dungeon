@@ -46,9 +46,6 @@ python main.py
 
 
 
-Alternatively, run the executable in the bin folder.
-
-
 
 ## Controls
 
